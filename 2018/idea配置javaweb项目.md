@@ -28,9 +28,13 @@
          - 添加artifact
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_223345.png)
     - 配置tomcat
+        - 找到配置的按钮
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224406.png)
+         - 添加tomcat server
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224459.png)
+         - 配置tomcat的路径
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224612.png)
+         - 添加要运行在tomcat中的artifact
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224725.png)
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224858.png)
          

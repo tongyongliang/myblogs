@@ -1,0 +1,14 @@
+- `shift+F9` debug运行项目
+- `ctrl+F10` 重启项目
+- `F8` 单步段点
+- `F9` 跳过断点
+- `alt+insert`  添加getter setter等
+- `alt+enter` 提示 添加引用等
+- `ctrl+/ ctrl+shift+/` 注释
+- `ctrl+alt+L` 美化代码
+- `tab` emmet插件一样效果
+- `ctrl+shift+N` 通过文件名查找
+- `ctrl+shift+F` 通过内容查找
+- `ctrl+d` 复制一行
+- `ctrl+L` 删除一行
+- `sout` 等于System.out.println();
