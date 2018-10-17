@@ -10,15 +10,27 @@
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_221118.png)
          - 选择module
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_221522.png)
-         - 配置module 
+         - 创建module 
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_221951.png)
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222024.png)
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222122.png)
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222235.png)
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222312.png)
+         - 配置module
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222437.png)
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222713.png)
+         - 添加依赖jar包
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222843.png)
+         - 添加web
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_223015.png)
+         - 设置web
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_223212.png)
+         - 添加artifact
          - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_223345.png)
+    - 配置tomcat
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224406.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224459.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224612.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224725.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_224858.png)
+         
