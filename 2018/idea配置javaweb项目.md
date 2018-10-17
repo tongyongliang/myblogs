@@ -1,0 +1,24 @@
+- 设置项目
+    - 进入项目设置页面
+    - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_220447.png)
+    
+    - 设置project
+    - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_220809.png)
+    
+    - 设置modules
+         - import module
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_221118.png)
+         - 选择module
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_221522.png)
+         - 配置module 
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_221951.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222024.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222122.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222235.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222312.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222437.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222713.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_222843.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_223015.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_223212.png)
+         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_223345.png)
