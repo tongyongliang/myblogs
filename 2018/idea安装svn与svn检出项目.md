@@ -5,6 +5,8 @@
     - command一定要选上
     
     - ![image](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/eef8ae40-7a03-49d2-bc95-45d4635a62fc.png)
+- idea中配置svn的程序路径
+    - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_215723.png)
 - 使用svn检出项目
     - 创建一个空的项目
         - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_214451.png)
@@ -13,4 +15,4 @@
             - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_214822.png)
         - 右键单击创建的文件夹，找到svn checkout
             - ![img](https://raw.githubusercontent.com/tongyongliang/myblogs/master/2018/img/2018-10-17_215118.png)
-        - 一路下一步，检出完毕
+        - 一路下一步，检出完 毕
