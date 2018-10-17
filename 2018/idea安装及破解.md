@@ -1,0 +1,5 @@
+- 下载安装包
+    - 链接：https://pan.baidu.com/s/14YQgcB3d6jiXo87HIdA8ug 
+    - 密码：l53v
+- 安装
+- 破解 网上破解都教程试一下
