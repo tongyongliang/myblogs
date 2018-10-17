@@ -1,2 +1,2 @@
 # myblogs
-blogs
+blogs myblogs
